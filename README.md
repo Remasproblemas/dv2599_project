@@ -6,7 +6,7 @@ Run the following command in terminal:
 
 pip install requirements.txt
 
-Makre sure you have the following files in the same directory
+Make sure you have the following files in the same directory
 
 main.ipynb
 dataset.csv
